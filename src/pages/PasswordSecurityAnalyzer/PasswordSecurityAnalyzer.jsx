@@ -1,9 +1,7 @@
 import React from 'react'
 
-function PasswordSecurityAnalyzer() {
+export default function PasswordSecurityAnalyzer() {
   return (
     <div>PasswordSecurityAnalyzer</div>
   )
 }
-
-export default PasswordSecurityAnalyzer
